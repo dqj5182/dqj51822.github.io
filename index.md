@@ -6,11 +6,14 @@ layout: homepage
 
 <h2 style="margin: 60px 0px 10px;">Biography</h2>
 
-I am currently a postdoctoral fellow in the Department of Computer Science at [Johns Hopkins University](https://cs.jhu.edu). I am fortunate to work with [Prof. Alan L. Yuille](https://www.cs.jhu.edu/~ayuille/). I received my Ph.D. in Computer Science at [Max Planck Institute for Informatics](https://www.mpi-inf.mpg.de/), where I was fortunate to be advised by [Prof. Bernt Schiele](https://people.mpi-inf.mpg.de/~schiele/) and [Prof. Qianru Sun](https://qianrusun.com/). As part of the [European Laboratory for Learning and Intelligent Systems (ELLIS) Ph.D. Program](https://ellis.eu/phd-postdoc), I was also co-supervised by [Dr. Christian Rupprecht](https://chrirupp.github.io/) and [Prof. Andrea Vedaldi](https://www.robots.ox.ac.uk/~vedaldi/) in the [Visual Geometry Group (VGG)](https://www.robots.ox.ac.uk/~vgg/) at the [University of Oxford](https://www.ox.ac.uk/). From 2018 to 2019, I was a research intern at the [National University of Singapore](https://www.comp.nus.edu.sg/), working with [Prof. Tat-Seng Chua](https://www.chuatatseng.com/) and [Prof. Qianru Sun](https://qianrusun.com/). Prior to this, I obtained my bachelor’s degree from [Tianjin University](http://www.tju.edu.cn/english/index.htm). 
+I am a second-year Ph.D candidate at [SNU Computer Vision Lab](https://cv.snu.ac.kr/) advised by [Prof. Kyoung Mu Lee](https://cv.snu.ac.kr/index.php/~kmlee/) (Editor in Cheif of [TPAMI](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=34)). Before joining [SNU](https://en.snu.ac.kr/), I finished my undergradute degree at [Penn State](https://www.psu.edu/) and had a wonderful experience at [KAIST VL Lab](https://vllab.kaist.ac.kr/) with [Prof. Seunghoon Hong](https://maga33.github.io/). Also, I worked closely with [Prof. Dongwon Lee](https://ist.psu.edu/directory/dul13) from [The PIKE Group](https://pike.psu.edu/dongwon/) at [Penn State](https://www.psu.edu/) under collaboration with [Dr. Hye Joon Park](https://www.smeal.psu.edu/management/images/hye-joon-park.jpg/view). 
 
-My research lies at the intersection of **computer vision** and **machine learning** -- with a special focus on building intelligent visual systems that are continual and data-efficient. My research interests include **continual learning**, **few-shot learning**, **semi-supervised learning**, **generative models**, **3D geometry models**, and **medical imaging**.
+## Research Interests
 
-<strong style="color:#e74d3c; font-weight:600"><strong style="color:#e74d3c; font-weight:600">I am currently on the 2023-2024 academic job market, looking for faculty positions in CS, CSE, ECE, IEOR, etc., related to Artificial Intelligence, Computer Vision, and Machine Learning. Please feel free to contact me if you are interested. I am also happy to give talks on my research in related seminars.</strong></strong>
+Since an early age, my great passion lied in automobiles. How they travel from one place to another in multiple scenarios and events was always fascinating. The final goal of my research sits in this childhood dream that one day I can make cars "perceive" and "interact" with the world. Under this mission, my current research interests are as follows:
+
+- **3D Human Mesh Reconstruction:** How to reconstruct human pose and shape from a monocular RGB image/video?
+- **3D Scene Reconstruction:** What are the important components of the scene that makes up our world around us?
 
 {% include_relative _includes/news.md %}
 
